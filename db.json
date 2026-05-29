@@ -1,0 +1,19 @@
+{
+  "portas": [
+    {
+      "id": 1,
+      "nome": "Porta Principal",
+      "localizacao": "Entrada Principal",
+      "status": "ativo"
+    }
+  ],
+  "registros": [
+    {
+      "id": 1,
+      "id_porta": 1,
+      "data_hora": "2024-01-15T10:30:00",
+      "direcao": "entrada",
+      "sensor_status": true
+    }
+  ]
+}
